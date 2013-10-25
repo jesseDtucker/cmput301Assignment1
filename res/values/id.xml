@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Root Ids -->
+    <item type="id" name="v_mainTabs"/>
+    <item type="id" name="v_cloudTab"/>
+    <item type="id" name="v_noteTab"/>
+    <item type="id" name="v_statTab"/>
+    <item type="id" name="v_addNote"/>
+    
+    <item type="id" name="v_noteList"/>
+    
+    <!-- Note Preview Ids -->
+    <item type="id" name="v_subject"/>
+    <item type="id" name="v_content"/>
+    
+    <!-- Detailed Note Ids -->
+    <item type="id" name="v_detailedNoteViewer"/>
+    <item type="id" name="v_noteDate"/>
+    <item type="id" name="v_noteDetails_subject"/>
+    <item type="id" name="v_noteDetails_content"/>
+    <item type="id" name="v_delete"/>
+    <item type="id" name="v_done"/>
+    <item type="id" name="v_dateDialog"/>
+    
+    <!-- Stats Ids -->
+    <item type="id" name="v_logCount"/>
+    <item type="id" name="v_wordCount"/>
+    <item type="id" name="v_characterCount"/>
+    <item type="id" name="v_frequentWordList"/>
+    
+    <!-- Cloud Ids -->
+    <item type="id" name="v_cloudFrame"/>
+</resources>

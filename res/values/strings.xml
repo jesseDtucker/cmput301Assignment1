@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">jtucker_cmput301_assn_one</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <!-- These strings should be replaced with images... -->
+    <string name="cloudTabTitle">Text Cloud</string>
+    <string name="noteTabTitle">Notes</string>
+    <string name="statTabTitle">Stats</string>
+    
+    <!-- Content Description -->
+    <item type="string" name="cloudTabDesc">Text Cloud</item>
+    <item type="string" name="noteTabDesc">Notes</item>
+    <item type="string" name="statsTabDesc">Stats</item>
+    <item type="string" name="addNoteButtonDesc">Add Note</item>
+    
+    <!-- Detailed Note Edit -->
+    <item type="string" name="deleteNote">Delete Note</item>
+    <item type="string" name="doneEditing">Done</item>
+    
+    <!-- Stats Screen -->
+    <item type="string" name="numberOfLogs">Number of Logs:</item>
+    <item type="string" name="numberOfWords">Number of Words:</item>
+    <item type="string" name="numberOfCharacters">Number of Characters:</item>
+    <item type="string" name="frequentWords">Frequently Occuring Words:</item>
+
+</resources>

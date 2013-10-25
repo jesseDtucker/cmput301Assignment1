@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    style="?android:attr/buttonBarStyle">
+    <ImageButton
+        android:id="@id/v_cloudTab"
+        android:layout_width="0dp" 
+        android:layout_height="wrap_content" 
+        android:layout_weight=".26"
+        android:scaleType="centerCrop"
+        android:background="@drawable/icn_tab_cloud_128x128"
+        style="?android:attr/buttonBarButtonStyle"
+        android:contentDescription="@string/cloudTabDesc"/>
+    <ImageButton
+        android:id="@id/v_noteTab"
+		android:layout_width="0dp" 
+        android:layout_height="wrap_content" 
+        android:layout_weight=".28"
+        android:scaleType="centerCrop"
+        android:background="@drawable/icn_tab_note_128x128"
+        style="?android:attr/buttonBarButtonStyle"
+        android:contentDescription="@string/noteTabDesc"/>
+    <ImageButton
+        android:id="@id/v_statTab"
+		android:layout_width="0dp" 
+        android:layout_height="wrap_content" 
+        android:layout_weight=".26"
+        android:scaleType="centerCrop"
+        android:background="@drawable/icn_tab_stats_128x128"
+        style="?android:attr/buttonBarButtonStyle"
+        android:contentDescription="@string/statsTabDesc"/>
+    <ImageButton
+        android:id="@id/v_addNote"
+		android:layout_width="0dp"
+        android:layout_height="wrap_content" 
+        android:layout_weight="0.2"
+        android:scaleType="centerCrop"
+        android:background="@drawable/icn_btn_add_128x128"
+        style="?android:attr/buttonBarButtonStyle"
+        android:contentDescription="@string/addNoteButtonDesc"/>
+
+</LinearLayout>

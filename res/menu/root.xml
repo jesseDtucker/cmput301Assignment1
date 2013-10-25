@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item 
+        android:id="@id/v_cloudTab"
+        android:orderInCategory="3"
+        android:showAsAction="always"
+        android:title="@string/cloudTabTitle"
+        android:icon="@drawable/icn_tab_cloud_128x128"/>
+    <item 
+        android:id="@id/v_noteTab"
+        android:orderInCategory="2"
+        android:showAsAction="always"
+        android:title="@string/noteTabTitle"
+        android:icon="@drawable/icn_tab_note_128x128"/>
+    <item 
+        android:id="@id/v_statTab"
+        android:orderInCategory="1"
+        android:showAsAction="always"
+        android:title="@string/statTabTitle"
+        android:icon="@drawable/icn_tab_stats_128x128"/>
+    <item 
+        android:id="@id/v_addNote"
+        android:orderInCategory="4"
+        android:showAsAction="always"
+        android:title="@string/addNoteButtonDesc"
+        android:icon="@drawable/icn_btn_add_128x128"/>
+</menu>

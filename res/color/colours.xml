@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="c_actionBarBackground"> #ADFF87 </color>
+    <color name="c_fontColour"> #486B38 </color>
+    <color name="c_appBackground"> #D9FFD1 </color>
+    <color name="c_highlightColour"> #46AD24 </color>
+</resources>
